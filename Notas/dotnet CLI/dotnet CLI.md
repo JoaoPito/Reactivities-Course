@@ -1,0 +1,3 @@
+- **dotnet new list:** Lista de todo tipo de projeto que pode ser criado
+	- Exemplo: **dotnet new sln** Cria uma nova solução
+- **dotnet sln list:** Lista os projetos dentro da solução atual

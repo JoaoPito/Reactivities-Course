@@ -1,0 +1,4 @@
+- Microsoft C#
+- C# Extensions - Criar classes C#, etc
+- NuGet Gallery
+- SQLite
