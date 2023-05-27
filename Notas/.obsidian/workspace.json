@@ -64,19 +64,41 @@
             }
           },
           {
-            "id": "630c96566a8b2669",
+            "id": "0dbb33e9eff11a48",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          },
+          {
+            "id": "02c5694c577efee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet CLI/dotnet watch.md",
+                "file": "React/Estrutura de arquivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d22dd665a94c7eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Semantic UI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -142,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotnet CLI/dotnet watch.md",
+                "file": "React/Semantic UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotnet CLI/dotnet watch.md",
+                "file": "React/Semantic UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet CLI/dotnet watch.md"
+                "file": "React/Semantic UI.md"
               }
             }
           }
@@ -203,16 +225,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "630c96566a8b2669",
+  "active": "d22dd665a94c7eeb",
   "lastOpenFiles": [
-    "Código/Entity Framework Core.md",
+    "React/Estrutura de arquivos.md",
+    "React/Semantic UI.md",
+    "Postman.md",
+    "React",
+    "VS Code Extensions.md",
     "dotnet CLI/dotnet watch.md",
+    "Código/Entity Framework Core.md",
     "dotnet CLI",
     "Código/Domain/Activity.md",
     "Código/Domain",
     "Código",
-    "Postman.md",
-    "dotnet CLI/dotnet CLI.md",
-    "VS Code Extensions.md"
+    "dotnet CLI/dotnet CLI.md"
   ]
 }

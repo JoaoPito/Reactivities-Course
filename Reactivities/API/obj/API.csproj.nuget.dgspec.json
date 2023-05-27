@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj": {}
+    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj": {
+    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj",
+        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\API\\obj\\",
+        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj"
+              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj": {
+    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Application\\obj\\",
+        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -117,11 +117,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj"
               },
-              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj"
+              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -215,14 +215,14 @@
         }
       }
     },
-    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj": {
+    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -244,8 +244,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

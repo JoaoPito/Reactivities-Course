@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JrDW5MSaB7125KDBQq9o6jzh2mzhZasIbSGtdFrZbcsD1UBBxEi2NxlLtmr1oRjz3INh7IUWMVZjBYEJDIctfw==",
+  "dgSpecHash": "zoFpzvFFjZXotVV/WYKVAUYxaiTuzVxNo38epf5sSjfUzOoPl/s/GqZQzIOqlIXwJdonE7KJhYFFWw66P3v72w==",
   "success": true,
-  "projectFilePath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\João\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "C:\\Users\\João\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",

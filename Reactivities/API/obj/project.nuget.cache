@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HYl9JklCmQKCGT2tamgdXGKgpbUjsT/odPF1Z9SMGY6lnnuNK0HYbIMyUdETcrfgMley8iXX2/mvnUnpP+Eg7A==",
+  "dgSpecHash": "t6Z5eGsLq8WTMjBHotlE1h1jJhCVmGvfMv1WYhHDMxDd0iupuSRhO6m5QkO3vg0ZzNoHJbTBz0NWjDfv2LavUA==",
   "success": true,
-  "projectFilePath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Curso - Building an app with Net Core and React\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\João\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\João\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
