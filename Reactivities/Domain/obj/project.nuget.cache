@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C0WCgbusm00obHExpqZCGr6lmknKVSDY4xpd2goWLiywe+MWgX1K1mZR74zIDaKyF73sn+TVXfMDf3/dMB6n8g==",
+  "dgSpecHash": "xF4tJTHWzlfFhoi8YaZQ6xi6Nf10dGvnb2ZtTPZWL/+6SStyhtga+L22rSQpjWzcyB1N6JLN7B35P0pjwEsHDw==",
   "success": true,
-  "projectFilePath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

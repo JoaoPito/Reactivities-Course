@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Semantic UI.md",
+                "file": "VS Code Extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Semantic UI.md",
+                "file": "VS Code Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Semantic UI.md",
+                "file": "VS Code Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Semantic UI.md"
+                "file": "VS Code Extensions.md"
               }
             }
           }
@@ -227,8 +227,8 @@
   },
   "active": "d22dd665a94c7eeb",
   "lastOpenFiles": [
-    "React/Estrutura de arquivos.md",
     "React/Semantic UI.md",
+    "React/Estrutura de arquivos.md",
     "Postman.md",
     "React",
     "VS Code Extensions.md",

@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj": {
+    "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\obj\\",
+        "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/home/joaopito/.nuget/packages/",
+        "outputPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\João\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/joaopito/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,41 +53,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj": {
+    "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/home/joaopito/.nuget/packages/",
+        "outputPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\João\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/joaopito/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Estudos\\Notas\\Programação\\Full-Stack\\Reactivities-Course\\Reactivities-Tutorial\\Reactivities\\Domain\\Domain.csproj"
+              "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -130,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
         }
       }
     }
