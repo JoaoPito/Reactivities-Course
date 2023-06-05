@@ -1,13 +1,10 @@
 using Application.Activities;
 using Domain;
-using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Persistence;
 
 namespace API.Controllers
 {
-    public class ActivitiesController : BaseApiController
+    public class ActivitiesController : BaseApiController // Expõe os métodos da API para uso externo
     {
         [HttpGet] //api/activities
         public async Task<ActionResult<List<Activity>>> GetActivities()

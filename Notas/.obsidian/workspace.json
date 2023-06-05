@@ -96,9 +96,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc459a1046152cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VS Code Extensions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4041ad48bd6d4d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MobX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -164,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS Code Extensions.md",
+                "file": "MobX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS Code Extensions.md",
+                "file": "MobX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VS Code Extensions.md"
+                "file": "MobX.md"
               }
             }
           }
@@ -225,19 +249,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d22dd665a94c7eeb",
+  "active": "4041ad48bd6d4d80",
   "lastOpenFiles": [
+    "Rodar projeto.md",
+    "VS Code Extensions.md",
+    "Postman.md",
+    "MobX.md",
     "React/Semantic UI.md",
     "React/Estrutura de arquivos.md",
-    "Postman.md",
-    "React",
-    "VS Code Extensions.md",
-    "dotnet CLI/dotnet watch.md",
-    "Código/Entity Framework Core.md",
-    "dotnet CLI",
     "Código/Domain/Activity.md",
+    "Código/Entity Framework Core.md",
+    "dotnet CLI/dotnet CLI.md",
+    "dotnet CLI/dotnet watch.md",
+    "React",
+    "dotnet CLI",
     "Código/Domain",
-    "Código",
-    "dotnet CLI/dotnet CLI.md"
+    "Código"
   ]
 }
