@@ -5,9 +5,8 @@ import { v4 as uuid } from "uuid"
 
 export default class ActivityStore {
 
-    activities: Activity[] = [];
     activityRegistry = new Map<string, Activity>()
-    selectedActivity: Activity | undefined = undefined;
+    selectedActivity?: Activity | undefined = undefined;
     editMode = false;
     loading = false;
     loadingInitial = false;
@@ -96,6 +95,7 @@ export default class ActivityStore {
     updateActivity = async (activity: Activity) => {
         this.loading = true;
         try {
+            await agent.Activities.update(activity);
             runInAction(() => {
                 this.activityRegistry.set(activity.id, activity);
                 this.selectedActivity = activity;
