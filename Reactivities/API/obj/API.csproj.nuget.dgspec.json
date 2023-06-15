@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj": {}
+    "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj": {}
   },
   "projects": {
-    "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj": {
+    "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj",
+        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj",
+        "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj",
         "packagesPath": "/home/joaopito/.nuget/packages/",
-        "outputPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/API/obj/",
+        "outputPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joaopito/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj": {
-                "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj"
+              "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj": {
+                "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj": {
+    "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj",
+        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj",
+        "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj",
         "packagesPath": "/home/joaopito/.nuget/packages/",
-        "outputPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Application/obj/",
+        "outputPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joaopito/.nuget/NuGet/NuGet.Config"
@@ -102,11 +102,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj"
+              "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj"
               },
-              "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj": {
-                "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj"
+              "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -124,6 +124,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -150,14 +154,14 @@
         }
       }
     },
-    "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
+    "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
         "packagesPath": "/home/joaopito/.nuget/packages/",
-        "outputPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/obj/",
+        "outputPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joaopito/.nuget/NuGet/NuGet.Config"
@@ -203,14 +207,14 @@
         }
       }
     },
-    "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj": {
+    "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj",
+        "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj",
         "packagesPath": "/home/joaopito/.nuget/packages/",
-        "outputPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/obj/",
+        "outputPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joaopito/.nuget/NuGet/NuGet.Config"
@@ -225,8 +229,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj"
+              "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj"
               }
             }
           }

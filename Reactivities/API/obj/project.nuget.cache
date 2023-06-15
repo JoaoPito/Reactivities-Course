@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ITm6ksNfK6jM5hnWUiFQI6eU0pQyJOUmC0BO7f97pk6nULWUNETcRjjWIRwIfF7Z03lszXsZGtp1n3mamvp6Pg==",
+  "dgSpecHash": "XxYCGWrLIptZncUC1k3VCCD7zkD07Y2MpBAo/+3fso0TR/i6BTzNdUIR6vpOb8MT1yN/fMxqIOLCJgYwqjHGDg==",
   "success": true,
-  "projectFilePath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj",
+  "projectFilePath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/home/joaopito/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/joaopito/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/home/joaopito/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/home/joaopito/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/home/joaopito/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/home/joaopito/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/joaopito/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/home/joaopito/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",

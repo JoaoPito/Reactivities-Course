@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jES12HCwFWCicY3BWC9FHVtNaHBzqxJ96zhf1JSQlbRXuT/nrnks70pPShBdjItrpxLuygwD8NNGZlKuIjEy8A==",
+  "dgSpecHash": "RM9NMBf9YeFPHJHY6Q9+ByBCuBc+GGoijudgwd1f3TJZOHSMdGtLvt8mMSHrTk9YbneOc+Skfm7IFnMs1x3liQ==",
   "success": true,
-  "projectFilePath": "/home/joaopito/Documentos/Estudos/Notas/Programação/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj",
+  "projectFilePath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
     "/home/joaopito/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/home/joaopito/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
