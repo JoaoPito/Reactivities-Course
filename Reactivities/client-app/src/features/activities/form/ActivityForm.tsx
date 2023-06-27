@@ -14,8 +14,6 @@ import MySelectInput from "../../../app/common/form/MySelectInput";
 import { categoryOptions } from "../../../app/common/options/categoryOptions";
 import MyDateInput from "../../../app/common/form/MyDateInput";
 
-
-
 export default observer(function ActivityForm() {
 
     const { activityStore } = useStore();

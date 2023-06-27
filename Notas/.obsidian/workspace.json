@@ -11,17 +11,21 @@
             "id": "0123a55f7a9e1741",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/ASP.NET Identities.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "d423d1af4fedcc6e",
+            "id": "5a68ababb015b51c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Formik.md",
+                "file": "DotNet/JSON Web Tokens.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Formik.md",
+                "file": "DotNet/JSON Web Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Formik.md",
+                "file": "DotNet/JSON Web Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Formik.md"
+                "file": "DotNet/JSON Web Tokens.md"
               }
             }
           }
@@ -155,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d423d1af4fedcc6e",
+  "active": "5a68ababb015b51c",
   "lastOpenFiles": [
-    "React/Estrutura de arquivos.md",
+    "DotNet/ASP.NET Identities.md",
+    "DotNet/JSON Web Tokens.md",
     "React/Formik.md",
+    "DotNet",
+    "React/Estrutura de arquivos.md",
     "MobX.md",
     "Rodar projeto.md",
     "VS Code Extensions.md",
@@ -166,10 +173,10 @@
     "React/Semantic UI.md",
     "Código/Domain/Activity.md",
     "Código/Entity Framework Core.md",
-    "dotnet CLI/dotnet CLI.md",
-    "dotnet CLI/dotnet watch.md",
+    "DotNet/dotnet CLI/dotnet CLI.md",
+    "DotNet/dotnet CLI/dotnet watch.md",
     "React",
-    "dotnet CLI",
+    "DotNet/dotnet CLI",
     "Código/Domain",
     "Código"
   ]
