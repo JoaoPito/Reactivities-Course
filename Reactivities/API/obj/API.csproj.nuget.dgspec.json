@@ -29,6 +29,9 @@
             "projectReferences": {
               "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj": {
                 "projectPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj"
+              },
+              "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -202,6 +205,63 @@
               "version": "[7.0.7, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/joaopito/.dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/home/joaopito/.nuget/packages/",
+        "outputPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/joaopito/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj": {
+                "projectPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
