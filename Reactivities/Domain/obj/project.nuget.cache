@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sabKfkNsVz0KHR9oNmfJWvIXodpydXBVBG7ZJsqXGS07oonAq4lx8SXp9rX2/7Sk5cObpk2+5bjyjtpSF7cDuA==",
+  "dgSpecHash": "jZWsfAelMbF0qwHPljUXeHefFPFahG6GmHxUZyzdlJi2TxNXFn2/HWsLg4DfRxJz+5fiEJCdzg8e2RkgbhGBgw==",
   "success": true,
-  "projectFilePath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
+  "projectFilePath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj",
   "expectedPackageFiles": [
     "/home/joaopito/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.7/microsoft.aspnetcore.cryptography.internal.7.0.7.nupkg.sha512",
     "/home/joaopito/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.7/microsoft.aspnetcore.cryptography.keyderivation.7.0.7.nupkg.sha512",

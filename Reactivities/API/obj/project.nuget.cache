@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "inZ36NgWHOKQUNeposOgcyWAkxSr2Axjh+6hEccvCXOU1WTgXOshtX9pbg1X6cCUNfejYW8/6Zgf7YCFwqNgEw==",
+  "dgSpecHash": "f/jpHAZrzClGpuhSDNaqVsXyW+PL/aHeqMmfv93zJKVuEUH1eSfyedN+8xOqQ2ttwVWV/SLpLSme0Hs89dqHMA==",
   "success": true,
-  "projectFilePath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj",
+  "projectFilePath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/home/joaopito/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/joaopito/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

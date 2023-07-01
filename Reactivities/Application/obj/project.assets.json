@@ -1688,11 +1688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj",
+      "projectUniqueName": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj",
       "projectName": "Application",
-      "projectPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj",
+      "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/Application.csproj",
       "packagesPath": "/home/joaopito/.nuget/packages/",
-      "outputPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/obj/",
+      "outputPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/joaopito/.nuget/NuGet/NuGet.Config"
@@ -1707,11 +1707,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
-              "projectPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj"
+            "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj": {
+              "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Domain/Domain.csproj"
             },
-            "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj": {
-              "projectPath": "/run/media/joaopito/fedora_localhost-live/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj"
+            "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj": {
+              "projectPath": "/home/joaopito/Documentos/Estudos/Cursos e Projetos/Full-Stack/Reactivities-Course/Reactivities/Persistence/Persistence.csproj"
             }
           }
         }
